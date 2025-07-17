@@ -27,6 +27,32 @@ En este proyecto he creado un acceso a un Cajero mediante una cuenta de banco. E
 ## 📸 Capturas de pantalla
 
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/b3ac8d4e-1213-4830-9b1e-74400d219f20" />
+---
+
+<br><br>
+
+## 💻 Inicializar Proyecto desde la Terminal
+
+<br>
+
+- No hace falta que tengas instalado ningún IDE, puedes descargar el paquete e inicializarlo directamente desde la Terminal. Te explico cómo:
+
+<p>
+  1. Descarga el paquete y mueve el paquete desde tu carpeta de Descargas hasta el Escritorio.
+</p>
+<p>
+  2. Abre la terminal y ve cambiando de directorio hasta llegar al Desktop/Escritorio
+</p>
+<p>
+  3. Usa el compilador de JAVA para pasar el documento de la carpeta de .java a .class, esto hará que el código sea legible para tu PC
+</p>
+<p>
+  4. Gestiona tu cuenta corriente, empiezas con 1000€ 😏
+</p>
+<br>
+
+<img width="974" height="355" alt="image" src="https://github.com/user-attachments/assets/4b1647cf-de1a-4bad-b4ca-49f03673a6f5" />
+
 
 
 <br><br>
