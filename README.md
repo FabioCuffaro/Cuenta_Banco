@@ -47,7 +47,7 @@ En este proyecto he creado un acceso a un Cajero mediante una cuenta de banco. E
   3. Usa el compilador de JAVA para pasar el documento de la carpeta de .java a .class, esto hará que el código sea legible para tu PC
 </p>
 <p>
-  4. Gestiona tu cuenta corriente, empiezas con 1000€ 😏
+  4. Gestiona tu cuenta corriente, la contraseña es: "hola" empiezas con 1000€ 😏
 </p>
 <br>
 
